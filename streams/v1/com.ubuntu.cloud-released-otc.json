@@ -1,0 +1,44 @@
+{
+  "content_id": "com.ubuntu.cloud:released:otc",
+  "datatype": "image-ids",
+  "format": "products:1.0",
+  "products": {
+    "com.ubuntu.cloud:server:14.04:amd64": {
+      "arch": "amd64",
+      "endpoint": "https://ims.eu-de.otc.t-systems.com/v2/images",
+      "label": "release",
+      "release": "trusty",
+      "version": "14.04",
+      "versions": {
+        "14.04.4-LTS": {
+          "items": {
+            "asee1i3": {
+              "id": "Community_Ubuntu_14.04.4_TSI_20160516_0_latest",
+              "region": "eu-de",
+              "virt": "FusionCompute"
+            }
+          }
+        }
+      }
+    },
+    "com.ubuntu.cloud:server:16.04:amd64": {
+      "arch": "amd64",
+      "endpoint": "https://ims.eu-de.otc.t-systems.com/v2/images",
+      "label": "release",
+      "release": "xenial",
+      "version": "16.04",
+      "versions": {
+        "16.04-LTS": {
+          "items": {
+            "asee1i3": {
+              "id": "Community_Ubuntu_16.04_TSI_latest",
+              "region": "eu-de",
+              "virt": "FusionCompute"
+            }
+          }
+        }
+      }
+    }
+  }
+  "updated": "Thu, 13 Apr 2017 20:48:38 +0000"
+}
