@@ -31,7 +31,7 @@
         "16.04-LTS": {
           "items": {
             "asee1i3": {
-              "id": "Community_Ubuntu_16.04_TSI_latest",
+              "id": "6d612585-2174-45d7-9bd0-bbb365b2aebc",
               "region": "eu-de",
               "virt": "FusionCompute"
             }
