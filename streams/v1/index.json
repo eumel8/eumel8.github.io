@@ -7,7 +7,7 @@
       "path": "streams/v1/com.ubuntu.cloud-released-otc.sjson",
       "products": [
         "com.ubuntu.cloud:server:14.04:amd64",
-        "com.ubuntu.cloud:server:16.04:amd64",
+        "com.ubuntu.cloud:server:16.04:amd64"
       ],
       "updated": "Mon, 12 Dec 2016 20:48:38 +0000"
     }
